@@ -1,0 +1,24 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncBreeds.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritatanght/cats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritatanght/cats/issues"
+  },
+  "homepage": "https://github.com/ritatanght/cats#readme",
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  }
+}
